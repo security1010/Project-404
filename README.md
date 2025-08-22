@@ -60,6 +60,9 @@ missing-persons-finder/
 
 ├─ assets/ # Images, mockups, sample data
 
+└─ README.md       # Project intro & setup guide
+
+
 
 ---
 
