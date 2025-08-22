@@ -32,8 +32,7 @@ The Missing Persons Finder App is designed to be a **comprehensive platform** fo
 
 ## 🛠️ Tech Stack (Proposed)
 
-- Tech Stack
-- 
+
 Mobile Application (Frontend)
 
 Flutter (Dart) → Cross-platform mobile app (Android & iOS).
@@ -42,11 +41,14 @@ Material / Cupertino Widgets → Native UI components.
 
 
 
+
 Backend & API
+
 
 Flask (Python) → REST/GraphQL backend framework.
 
 GraphQL → Flexible API queries and mutations.
+
 
 
 
@@ -60,11 +62,13 @@ Docker → Containerization for deployment.
 
 
 
+
 Web Dashboard (Optional - Future)
 
 React (TypeScript) → Modern web framework.
 
 Tailwind CSS → Utility-first CSS for styling.
+
 
 
 
