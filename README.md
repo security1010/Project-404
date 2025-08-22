@@ -47,8 +47,11 @@ The Missing Persons Finder App is designed to be a **comprehensive platform** fo
 ---
 
 ## 📂 Project Structure
+
 missing-persons-finder/
+
 │
+
 ├─ backend/ # API, database models, AI integrations
 
 ├─ frontend/ # Mobile / web app code
