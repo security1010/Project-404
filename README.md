@@ -122,8 +122,8 @@ missing-persons-finder/
    npm install
 
    # Frontend (later)
-   #cd ../frontend
-   #npm install
+   cd ../frontend
+   npm install
    
 3. Run the development servers
    # Backend (example)
