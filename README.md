@@ -66,18 +66,20 @@ missing-persons-finder/
 
    Install dependencies (will depend on chosen stack)
    # Example (Node.js + React)
-cd backend && npm install
-cd ../frontend && npm install
+   
+   cd backend && npm install
+   #cd ../frontend && npm install
 
-Run the development servers
-# Example commands
-npm run dev     # For backend
-npm start       # For frontend
+   #Run the development servers
+   #Example commands
+   #npm run dev     # For backend
+   #npm start       # For frontend
 
-Contribute via branches
-Create a new branch for your feature:
-git checkout -b feature/your-feature-name
-Push and create a Pull Request on GitHub.
+   **Contribute via branches**
+   **Create a new branch for your feature:**
+
+   #git checkout -b feature/your-feature-name
+   #Push and create a Pull Request on GitHub.
 
 
 
