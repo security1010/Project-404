@@ -47,4 +47,37 @@ The Missing Persons Finder App is designed to be a **comprehensive platform** fo
 ---
 
 ## 📂 Project Structure
+missing-persons-finder/
+│
+├─ backend/ # API, database models, AI integrations
+├─ frontend/ # Mobile / web app code
+├─ docs/ # Documentation & design specifications
+├─ assets/ # Images, mockups, sample data
+
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/<your-username>/missing-persons-finder.git
+   cd missing-persons-finder
+
+   Install dependencies (will depend on chosen stack)
+   # Example (Node.js + React)
+cd backend && npm install
+cd ../frontend && npm install
+
+Run the development servers
+# Example commands
+npm run dev     # For backend
+npm start       # For frontend
+
+Contribute via branches
+Create a new branch for your feature:
+git checkout -b feature/your-feature-name
+Push and create a Pull Request on GitHub.
+
+
 
