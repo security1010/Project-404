@@ -148,7 +148,7 @@ missing-persons-finder/
        npm run dev
 
    # Frontend (example)
-    npm start
+       npm start
 
    # Create a new branch for features
         git checkout -b feature/your-feature-name
