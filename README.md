@@ -1,5 +1,23 @@
 # Missing Persons Finder App
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC)
+![Python](https://img.shields.io/badge/Python-Backend-yellow)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF)
+
+
+
+
+
+
 Welcome to the private collaboration space for the **Missing Persons Finder App** – a project by Dom and the team, dedicated to making a positive impact in The Gambia.  
 
 ---
