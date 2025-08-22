@@ -75,8 +75,8 @@ missing-persons-finder/
    #npm run dev     # For backend
    #npm start       # For frontend
 
-   **Contribute via branches**
-   **Create a new branch for your feature:**
+   Contribute via branches
+   Create a new branch for your feature:
 
    #git checkout -b feature/your-feature-name
    #Push and create a Pull Request on GitHub.
