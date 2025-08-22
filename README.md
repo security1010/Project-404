@@ -132,7 +132,7 @@ missing-persons-finder/
   # Frontend (example)
     npm start
 
-4.  # Create a new branch for features
+  # Create a new branch for features
         git checkout -b feature/your-feature-name
         git push origin feature/your-feature-name
 
