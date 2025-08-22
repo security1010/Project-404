@@ -147,14 +147,14 @@ missing-persons-finder/
    # Backend (example)
        npm run dev
 
-  # Frontend (example)
+   # Frontend (example)
     npm start
 
-  # Create a new branch for features
+   # Create a new branch for features
         git checkout -b feature/your-feature-name
         git push origin feature/your-feature-name
 
- # Submit a Pull Request → get reviewed before merging into main
+   # Submit a Pull Request → get reviewed before merging into main
 
 
 
