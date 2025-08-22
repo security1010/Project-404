@@ -154,7 +154,7 @@ missing-persons-finder/
         git checkout -b feature/your-feature-name
         git push origin feature/your-feature-name
 
-   # Submit a Pull Request → get reviewed before merging into main
+    # Submit a Pull Request → get reviewed before merging into main
 
 
 
