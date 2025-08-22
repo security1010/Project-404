@@ -64,22 +64,30 @@ missing-persons-finder/
    git clone https://github.com/<your-username>/missing-persons-finder.git
    cd missing-persons-finder
 
-   Install dependencies (will depend on chosen stack)
-   # Example (Node.js + React)
+2. **Install dependencies**
+   ```bash
+   # Backend
+   cd backend
+   npm install
+
+   # Frontend (later)
+   #cd ../frontend
+   #npm install
    
-   cd backend && npm install
-   #cd ../frontend && npm install
+3. Run the development servers
+   # Backend (example)
+       npm run dev
 
-   #Run the development servers
-   #Example commands
-   #npm run dev     # For backend
-   #npm start       # For frontend
+  # Frontend (example)
+    npm start
 
-   Contribute via branches
-   Create a new branch for your feature:
+4.  # Create a new branch for features
+        git checkout -b feature/your-feature-name
+        git push origin feature/your-feature-name
 
-   #git checkout -b feature/your-feature-name
-   #Push and create a Pull Request on GitHub.
+5. # Submit a Pull Request → get reviewed before merging into main
+
+
 
 
 
