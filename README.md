@@ -42,7 +42,7 @@ Material / Cupertino Widgets → Native UI components.
 
 
 
-Backend & API
+**Backend & API**
 
 
 Flask (Python) → REST/GraphQL backend framework.
@@ -52,7 +52,7 @@ GraphQL → Flexible API queries and mutations.
 
 
 
-Databases:
+**Databases:**
 
 MongoDB → NoSQL for flexible data.
 
@@ -63,7 +63,7 @@ Docker → Containerization for deployment.
 
 
 
-Web Dashboard (Optional - Future)
+**Web Dashboard (Optional - Future)**
 
 React (TypeScript) → Modern web framework.
 
@@ -72,7 +72,7 @@ Tailwind CSS → Utility-first CSS for styling.
 
 
 
-DevOps & Tools
+**DevOps & Tools**
 
 Git & GitHub → Version control and collaboration.
 
