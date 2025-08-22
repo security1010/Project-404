@@ -96,7 +96,33 @@ missing-persons-finder/
 
 5. # Submit a Pull Request → get reviewed before merging into main
 
+   # Roadmap
 
+Define MVP (basic reporting + database + search)
 
+Set up backend API + database
 
+Build frontend prototype (reporting & search UI)
+
+Add notifications & community alerts
+
+Research & test AI models for image enhancement + 3D reconstruction
+
+First test deployment
+
+  🤝 # Contribution
+  
+  This is a private collaboration repo. Please:
+
+  Use feature branches for new work
+
+  Keep code clean & documented
+
+  Update /docs for major changes
+
+  Review PRs before merging
+  
+  
+  **“Empowering communities through technology for a safer tomorrow.”**
+  
 
