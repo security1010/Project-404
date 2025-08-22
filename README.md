@@ -32,17 +32,55 @@ The Missing Persons Finder App is designed to be a **comprehensive platform** fo
 
 ## 🛠️ Tech Stack (Proposed)
 
-- **Frontend:** React / React Native (for web + mobile support)
-  
-- **Backend:** Node.js (Express) or GraphQL
-  
-- **Database:** PostgreSQL or MongoDB
-  
-- **AI/ML:** Python (OpenCV, TensorFlow, or PyTorch for image enhancement & 3D reconstruction)
-  
-- **Cloud Hosting:** AWS / DigitalOcean / Firebase
-  
-- **Version Control:** Git + GitHub  
+- Tech Stack
+- 
+Mobile Application (Frontend)
+
+Flutter (Dart) → Cross-platform mobile app (Android & iOS).
+
+Material / Cupertino Widgets → Native UI components.
+
+
+
+Backend & API
+
+Flask (Python) → REST/GraphQL backend framework.
+
+GraphQL → Flexible API queries and mutations.
+
+
+
+Databases:
+
+MongoDB → NoSQL for flexible data.
+
+MySQL → Relational database.
+
+Docker → Containerization for deployment.
+
+
+
+Web Dashboard (Optional - Future)
+
+React (TypeScript) → Modern web framework.
+
+Tailwind CSS → Utility-first CSS for styling.
+
+
+
+DevOps & Tools
+
+Git & GitHub → Version control and collaboration.
+
+Postman → API testing and documentation.
+
+Icinga2 → Monitoring and alerting.
+
+CI/CD (GitHub Actions / Jenkins) → Automated builds & deployments.
+
+VS Code / PyCharm / Android Studio → Development environments.
+
+
 
 ---
 
