@@ -108,11 +108,9 @@ VS Code / PyCharm / Android Studio → Development environments.
 
 ## 📂 Project Structure
 
-missing-persons-finder/
-
-│
 
 Project-404/
+
 │
 
 ├── assets/      # images, mockups, sample data
