@@ -112,16 +112,20 @@ missing-persons-finder/
 
 │
 
-├─ backend/ # API, database models, AI integrations
+Project-404/
+│
 
-├─ frontend/ # Mobile / web app code
+├── assets/      # images, mockups, sample data
 
-├─ docs/ # Documentation & design specifications
+├── backend/     # API, database models, AI integrations
 
-├─ assets/ # Images, mockups, sample data
+├── docs/        # Documentation & design
 
-└─ README.md       # Project intro & setup guide
+├── frontend/    # Mobile/web app code
+│
+├── LICENSE      # Open-source license file
 
+└── README.md    # Project intro & setup guide
 
 
 ---
