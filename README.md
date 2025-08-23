@@ -139,7 +139,7 @@ missing-persons-finder/
    cd backend
    npm install
 
-   # Frontend (later)
+   # frontend
    cd ../frontend
    npm install
    
