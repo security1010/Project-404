@@ -121,6 +121,7 @@ Project-404/
 
 ├── frontend/    # Mobile/web app code
 │
+
 ├── LICENSE      # Open-source license file
 
 └── README.md    # Project intro & setup guide
