@@ -130,8 +130,8 @@ missing-persons-finder/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/missing-persons-finder.git
-   cd missing-persons-finder
+   git clone https://github.com/security1010/Project-404.git
+   cd Project-404/
 
 2. **Install dependencies**
    ```bash
