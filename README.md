@@ -136,21 +136,33 @@ Project-404/
    git clone https://github.com/security1010/Project-404.git
    cd Project-404/
 
-2. **Install dependencies**
-   ```bash
-   # Backend
+
+2. **Make the initialization script executable:**
+   
+       # chmod +x init-full.sh
+
+
+3. **Run the initialization script to scaffold the project with all placeholders:**
+
+       # ./init-full.sh
+
+ 
+
+2. **Install dependencies for backend and frontend as needed:**
+   ```Backend (Python)
    cd backend
-   npm install
+   pip install -r requirements.txt
 
    # frontend
    cd ../frontend
    npm install
    
-3. Run the development servers
-   # Backend (example)
-       npm run dev
+3. Start the development servers
+   # backend
+       cd backend
+       python app.py
 
-   # Frontend (example)
+   # Frontend
        npm start
 
    # Create a new branch for features
