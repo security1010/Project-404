@@ -117,31 +117,43 @@ Project-404/
 
 ├── assets/               # Images, mockups, sample data
 
+
 ├── backend/              # API, models, AI integration
+
 
 │   ├── app.py            # placeholder main backend file
 
+
 │   ├── requirements.txt  # Python dependencies
 
+
 │   ├── package.json      # npm metadata if needed
+
 
 │   ├── package-lock.json
 
 │   ├── node_modules/
 
+
 │   └── venv/             # Python virtual environment
 
 ├── docs/                 # Documentation placeholders
+
+
 │   └── README.md
 
 
 ├── frontend/             # Mobile & Web app code
 
+
 │   ├── mobile_app/       # placeholder for mobile-specific code
+
 
 │   ├── web_dashboard/    # placeholder for web dashboard
 
+
 │   ├── src/              # React frontend source
+
 
 │   │   ├── App.js
 
@@ -149,21 +161,29 @@ Project-404/
 
 │   ├── public/           # public frontend assets
 
+
 │   │   └── index.html
+
 
 │   ├── package.json
 
+
 │   ├── package-lock.json
+
 
 │   └── node_modules/
 
 ├── init.sh               # old init script
 
+
 ├── init-full.sh          # full scaffold + placeholders
+
 
 ├── LICENSE
 
+
 └── README.md             # project overview & setup
+
 
 ---
 
