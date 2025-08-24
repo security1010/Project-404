@@ -206,7 +206,7 @@ Project-404/
 
  
 
-2. **Install dependencies for backend and frontend as needed:**
+4. **Install dependencies for backend and frontend as needed:**
    
 
  Backend 
@@ -223,7 +223,7 @@ Project-404/
     cd ../frontend
     npm install
    
-3. # Start the development servers
+5. # Start the development servers
 
     backend
    
@@ -257,7 +257,9 @@ Research & test AI models for image enhancement + 3D reconstruction
 
 First test deployment
 
-  🤝 # Contribution
+
+  # Contribution
+  ***********************************************
   
   This is a private collaboration repo. Please:
 
