@@ -209,12 +209,12 @@ Project-404/
 2. **Install dependencies for backend and frontend as needed:**
    ```Backend (Python)
 
- # cd backend
+    cd backend
 
     pip install -r requirements.txt
 
    
- # frontend
+    frontend
     
     cd ../frontend
     npm install
