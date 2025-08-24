@@ -1,20 +1,20 @@
 #!/bin/bash
 
-echo "🚀 Initializing Project-404 structure..."
+echo " Initializing Project-404 structure..."
 
 # --------------------------
 # Backend setup
 # --------------------------
-echo "📦 Setting up backend..."
+echo " Setting up backend..."
 mkdir -p backend
 cd backend
 
 # Create virtual environment if it doesn't exist
 if [ ! -d "venv" ]; then
     python3 -m venv venv
-    echo "✅ Backend venv created"
+    echo " Backend venv created"
 else
-    echo "⚠️ Backend venv already exists, skipping..."
+    echo " Backend venv already exists, skipping..."
 fi
 
 # Create app.py if it doesn't exist
@@ -31,7 +31,7 @@ def index():
 if __name__ == "__main__":
     app.run(debug=True)
 EOL
-    echo "📝 Created backend/app.py placeholder"
+    echo " Created backend/app.py placeholder"
 fi
 
 # Create requirements.txt if it doesn't exist
