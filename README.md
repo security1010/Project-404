@@ -109,8 +109,6 @@ VS Code / PyCharm / Android Studio → Development environments.
 ## 📂 Project Structure
 
 
-Project-404/
-
 │
 
 Project-404/
