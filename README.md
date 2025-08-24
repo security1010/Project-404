@@ -207,7 +207,9 @@ Project-404/
  
 
 2. **Install dependencies for backend and frontend as needed:**
-   ```Backend (Python)
+   
+
+ Backend 
 
     cd backend
 
@@ -221,9 +223,9 @@ Project-404/
     cd ../frontend
     npm install
    
-3. Start the development servers
+3. # Start the development servers
 
-   # backend
+    backend
    
        cd backend
        python app.py
