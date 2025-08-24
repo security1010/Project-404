@@ -133,24 +133,27 @@ Project-404/
 
 1. **Clone the repository**  
    ```bash
+
+   
    git clone https://github.com/security1010/Project-404.git
    cd Project-404/
 
 
 2. **Make the initialization script executable:**
    
-       # chmod +x init-full.sh
+        chmod +x init-full.sh
 
 
 3. **Run the initialization script to scaffold the project with all placeholders:**
 
-       # ./init-full.sh
+        ./init-full.sh
 
  
 
 2. **Install dependencies for backend and frontend as needed:**
    ```Backend (Python)
    cd backend
+   
    pip install -r requirements.txt
 
    # frontend
@@ -159,13 +162,16 @@ Project-404/
    
 3. Start the development servers
    # backend
+   
        cd backend
        python app.py
 
    # Frontend
+   
        npm start
 
    # Create a new branch for features
+   
         git checkout -b feature/your-feature-name
         git push origin feature/your-feature-name
 
