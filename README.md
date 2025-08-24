@@ -214,9 +214,9 @@ Project-404/
     pip install -r requirements.txt
 
    
-*********************************************
+  *********************************************
    
-    frontend
+ # Frontend
     
     cd ../frontend
     npm install
