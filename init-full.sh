@@ -40,7 +40,7 @@ if [ ! -f "requirements.txt" ]; then
 Flask==2.3.2
 graphene==3.2.1
 EOL
-    echo "📝 Created backend/requirements.txt"
+    echo " Created backend/requirements.txt"
 fi
 
 cd ..
@@ -48,7 +48,7 @@ cd ..
 # --------------------------
 # Frontend setup
 # --------------------------
-echo "📦 Setting up frontend..."
+echo " Setting up frontend..."
 mkdir -p frontend/src frontend/public
 
 # package.json
@@ -75,7 +75,7 @@ if [ ! -f "frontend/package.json" ]; then
   }
 }
 EOL
-    echo "📝 Created frontend/package.json"
+    echo " Created frontend/package.json"
 fi
 
 # src/App.js
@@ -93,7 +93,7 @@ function App() {
 
 export default App;
 EOL
-    echo "📝 Created frontend/src/App.js"
+    echo " Created frontend/src/App.js"
 fi
 
 # src/index.js
@@ -106,7 +106,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
 EOL
-    echo "📝 Created frontend/src/index.js"
+    echo " Created frontend/src/index.js"
 fi
 
 # public/index.html
@@ -124,7 +124,7 @@ if [ ! -f "frontend/public/index.html" ]; then
 </body>
 </html>
 EOL
-    echo "📝 Created frontend/public/index.html"
+    echo " Created frontend/public/index.html"
 fi
 
 # Install frontend dependencies
@@ -132,12 +132,12 @@ cd frontend
 npm install
 cd ..
 
-echo "✅ Frontend ready with basic React setup"
+echo " Frontend ready with basic React setup"
 
 # --------------------------
 # Docs setup
 # --------------------------
-echo "📝 Creating docs placeholders..."
+echo " Creating docs placeholders..."
 mkdir -p docs
 if [ ! -f "docs/README.md" ]; then
     echo "# Documentation" > docs/README.md
@@ -147,11 +147,11 @@ echo "Initial documentation scaffold created."
 # --------------------------
 # Assets setup
 # --------------------------
-echo "🖼️ Creating assets placeholders..."
+echo " Creating assets placeholders..."
 mkdir -p assets
 if [ ! -f "assets/.gitkeep" ]; then
     touch assets/.gitkeep
 fi
 echo "Assets placeholder added."
 
-echo "✅ Initialization complete!"
+echo " Initialization complete!"
